@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "tjc.h": "c",
+        "usart.h": "c",
+        "string.h": "c",
+        "emm_v5.h": "c",
+        "servo.h": "c",
+        "chess_task.h": "c",
+        "control_logic.h": "c"
+    }
+}
