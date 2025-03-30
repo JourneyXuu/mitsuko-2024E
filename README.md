@@ -9,7 +9,7 @@
  <img src="https://image.lceda.cn/oshwhub/pullImage/301f0f4a41844ae88c44c4e7e82c1b3b.png" width="45%"/> 
  立创开源广场链接:(https://oshwhub.com/xu_duoduo/san-zi-qi)  
  
- github链接:(https://github.com/espressif/esp-moonlight)
+ github链接:(https://github.com/JourneyXuu/mitsuko-2024E)
 
 ## 原理解析（硬件说明）
 此处可填写项目的设计原理，将设计的原理拆分解析，示例：
