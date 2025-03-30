@@ -1,5 +1,8 @@
 ## 视频链接：
 [B站视频--功能演示及介绍]https://www.bilibili.com/video/BV18MZYYfE9p/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c5264ed3939a6a674d4069dff1ca5d90
+##特别鸣谢  
+特别鸣谢ppc师傅在硬件调试的帮助，救我板子于水火之间  
+
 ## 项目简介
 本系统采用模块化的设计思想，以STM32F407为中央处理器，由庐山派K230视觉模块、曲柄连杆、张大头闭环步进电机、舵机、龙邱电源模块、陶晶池串口屏、电磁铁。 
 
